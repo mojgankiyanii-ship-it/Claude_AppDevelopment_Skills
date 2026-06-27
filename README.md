@@ -1,4 +1,4 @@
-# appdevelopment-skills
+# App-Development-skills
 
 A collection of **six senior-level app-development skills for Claude**, packaged as a Claude Code plugin marketplace. Install the whole set with one command, or upload any single skill to the Claude app.
 
