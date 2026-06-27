@@ -1,0 +1,33 @@
+{
+  "name": "appdev-suite",
+  "version": "1.0.0",
+  "description": "Six senior-level app-development craft skills: taste (aesthetic/editorial judgment), ui-ux-pro-max (UI/UX design), frontend-engineering (HTML/CSS/JS/TS/React), dotnet-engineering (C#/ASP.NET Core), devops-platform-engineering (CI/CD, IaC, Kubernetes, AWS/Azure), and kotlin-multiplatform (professional iOS + Android from shared KMP code). Skills auto-load when a task matches their description.",
+  "author": {
+    "name": "Mojgan Kiani"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "design",
+    "ui-ux",
+    "taste",
+    "frontend",
+    "react",
+    "typescript",
+    "dotnet",
+    "csharp",
+    "aspnetcore",
+    "devops",
+    "platform-engineering",
+    "kubernetes",
+    "terraform",
+    "aws",
+    "azure",
+    "ci-cd",
+    "kotlin-multiplatform",
+    "kmp",
+    "ios",
+    "android",
+    "mobile"
+  ]
+}

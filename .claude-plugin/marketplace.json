@@ -1,0 +1,21 @@
+{
+  "name": "appdevelopment-skills",
+  "owner": {
+    "name": "Mojgan Kiani"
+  },
+  "metadata": {
+    "description": "Senior-level app development skills for Claude — design, front-end, .NET, DevOps, and Kotlin Multiplatform.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "appdev-suite",
+      "source": "./plugins/appdev-suite",
+      "description": "Six senior-level skills in one bundle: taste, UI/UX design, front-end engineering, .NET engineering, DevOps/platform engineering, and Kotlin Multiplatform (iOS + Android).",
+      "version": "1.0.0",
+      "author": { "name": "Mojgan Kiani" },
+      "license": "MIT",
+      "keywords": ["design", "ui-ux", "taste", "frontend", "dotnet", "devops", "kotlin-multiplatform", "mobile", "ios", "android", "engineering"]
+    }
+  ]
+}
